@@ -23,7 +23,7 @@ describe('String#word_count') do
   it('will compare a string of multiple words with a single word string and return a count of 4 despite capitalization') do
     expect("keep calm and quack quack quack quack on".word_count("QUACK")).to(eq(4))
   end
-  it('will compare a string of multiple words with a single word string and return a count of 2 taking into account partial matches') do
+  it('will compare a string of multiple words with a single word string and return a count of 2 taking into account partial matches and punctuation') do
     expect("Hello Ducks, welcome to introDUCKtion!".word_count("duck")).to(eq(2))
   end
 end

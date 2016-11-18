@@ -6,7 +6,7 @@ class String
       if word == target.downcase()
         count +=1
       elsif word.include?(target)
-        count +=1
+      count +=1
       end
     end
     count

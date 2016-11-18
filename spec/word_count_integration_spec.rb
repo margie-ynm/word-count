@@ -9,6 +9,6 @@ describe('the title case path', {:type => :feature}) do
     fill_in('phrase', :with => 'Hello Ducks, welcome to introDUCKtion!')
     fill_in('target', :with => 'duck')
     click_button('Word count NOW!')
-    expect(page).to have_content(2)
+    expect(page).to have_content('2')
   end
 end
