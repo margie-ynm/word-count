@@ -4,7 +4,7 @@
 
 #### By _**Margie Nevarez**_
 
-##### To view on gh-pages click here: [margie-ynm](https://margie-ynm.github.io/word-count)
+##### To view on gh-pages click here: [margie-ynm](https://morning-reef-56387.herokuapp.com/)
 
 ## Description
 
