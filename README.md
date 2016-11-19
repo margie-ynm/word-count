@@ -4,7 +4,7 @@
 
 #### By _**Margie Nevarez**_
 
-##### To view on gh-pages click here: [margie-ynm](https://morning-reef-56387.herokuapp.com/)
+##### To view live page on heroku click here: [margie-ynm](https://morning-reef-56387.herokuapp.com/)
 
 ## Description
 
