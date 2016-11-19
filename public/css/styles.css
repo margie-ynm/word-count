@@ -1,18 +1,43 @@
 body {
   font-family: 'Carter One', cursive;
+  background-color: #fcfcfc;
 }
 
 label {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 button {
-  box-shadow: 0 0 15px 5px lightgrey;
+  box-shadow: 0 0 10px 5px black;
   margin-top: 20px;
   margin-left: 5px;
   margin-right: 5px;
+  background-color: white;
+}
+
+
+.container {
+  width: 80%;
+}
+
+.well {
+  margin-top: 75px;
+  color: black;
+  border: 2px solid grey;
+  box-shadow: 0 0 15px 5px lightgrey;
+  background-color: #lightgrey;
 }
 
 h1 {
   text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #007BA2;
+  font-size: 4em;
+  text-shadow: 0 0 20px lightgrey;
+}
+
+h2 {
+  text-align: center;
+  font-size: 4em;
 }
